@@ -1,0 +1,7 @@
+div {
+    height: 150px;
+    width: fit-content;
+    padding: 15px;
+    z-index: 1;
+    background: white;
+}
